@@ -19,3 +19,4 @@ This repository contains my sysadmin coursework. Each lab is in its own folder w
 - **VMs:** DForcho-Win11, DForcho-Ubuntu, DForcho-UbuntuSRV, DForcho-WinSRV22
 | [Lab 6 – Software Installation & Automation](./Lab6_Software_Installation/) | Installed software using Ninite (Win11), apt CLI (Ubuntu), and Chocolatey (Windows Server) | ✅ Complete |
 | [Lab 7 – Spiceworks Help Desk](./Lab7_Spiceworks_Help_Desk/) | Set up Spiceworks Cloud Help Desk, configured the team and user portal, and demonstrated the full ticket lifecycle | ✅ Complete |
+| [Lab 8 – Nessus Vulnerability Scanning](./Lab8_Nessus_Vulnerability_Scan/) | Installed Nessus Essentials and ran credentialed and non-credentialed vulnerability scans against a target host | ✅ Complete |
