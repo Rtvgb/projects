@@ -18,3 +18,4 @@ This repository contains my sysadmin coursework. Each lab is in its own folder w
 - **Host OS:** Windows 11
 - **VMs:** DForcho-Win11, DForcho-Ubuntu, DForcho-UbuntuSRV, DForcho-WinSRV22
 | [Lab 6 – Software Installation & Automation](./Lab6_Software_Installation/) | Installed software using Ninite (Win11), apt CLI (Ubuntu), and Chocolatey (Windows Server) | ✅ Complete |
+| [Lab 7 – Spiceworks Help Desk](./Lab7_Spiceworks_Help_Desk/) | Set up Spiceworks Cloud Help Desk, configured the team and user portal, and demonstrated the full ticket lifecycle | ✅ Complete |
