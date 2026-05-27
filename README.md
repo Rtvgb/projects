@@ -17,3 +17,4 @@ This repository contains my sysadmin coursework. Each lab is in its own folder w
 - **Hypervisor:** VMware Workstation 17 Pro (Broadcom)
 - **Host OS:** Windows 11
 - **VMs:** DForcho-Win11, DForcho-Ubuntu, DForcho-UbuntuSRV, DForcho-WinSRV22
+| [Lab 6 – Software Installation & Automation](./Lab6_Software_Installation/) | Installed software using Ninite (Win11), apt CLI (Ubuntu), and Chocolatey (Windows Server) | ✅ Complete |
