@@ -1,4 +1,4 @@
-# Rtvgb – Sysadmin Projects
+# Daphny Forcho – Sysadmin Projects
 
 This repository contains my sysadmin coursework. Each lab is in its own folder with a README that explains what was done and why, along with screenshots and files as proof of completion.
 
